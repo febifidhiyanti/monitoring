@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245329304949",
+    "project_id": "waterquality-d5d71",
+    "storage_bucket": "waterquality-d5d71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245329304949:android:1d7c7e7d0109f7cb15c73c",
+        "android_client_info": {
+          "package_name": "com.example.monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245329304949-ln5jp6hm0kdg5e1c3gtpfcaee8ncn6je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB683rmZg_kOPXBTctzJlDUgsok0SimAaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245329304949-ln5jp6hm0kdg5e1c3gtpfcaee8ncn6je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
